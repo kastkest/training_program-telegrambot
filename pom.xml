@@ -9,12 +9,12 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.github.kastkest</groupId>
-	<artifactId>training_programm-telegrambot</artifactId>
+	<artifactId>training_program-telegrambot</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Training Programm TelegramBot</name>
+	<name>Training Program TelegramBot</name>
 	<description>TelegramBot for Fitness Company</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>13</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
@@ -26,6 +26,11 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
+		</dependency>
+		<dependency>
+			<groupId>org.telegram</groupId>
+			<artifactId>telegrambots-spring-boot-starter</artifactId>
+			<version>5.7.1</version>
 		</dependency>
 	</dependencies>
 
