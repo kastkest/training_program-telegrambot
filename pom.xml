@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.github.kastkest</groupId>
 	<artifactId>training_program-telegrambot</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.1.0-SNAPSHOT</version>
 	<name>Training Program TelegramBot</name>
 	<description>TelegramBot for Fitness Company</description>
 	<properties>
