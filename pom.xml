@@ -14,7 +14,7 @@
 	<name>Training Program TelegramBot</name>
 	<description>TelegramBot for Fitness Company</description>
 	<properties>
-		<java.version>13</java.version>
+		<java.version>11</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
