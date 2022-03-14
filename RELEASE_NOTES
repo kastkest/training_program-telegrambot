@@ -4,3 +4,7 @@
 
 * added tg bot
 * added Spring Boot in project
+
+## 0.2.0-SNAPSHOT
+
+* implemented Command pattern
